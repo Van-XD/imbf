@@ -316,7 +316,9 @@ def pilih_menumbasic():
                  name.lower() + '12345',
 
 
-                 'anjing',
+
+
+		 'anjing',
                  'bangsat',
                  'sayang']:
       
