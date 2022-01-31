@@ -9,7 +9,7 @@ $ pip2 install bs4
 
 $ pip2 Install mechanize
 
-$ pkg install nano
+
 
 $ git clone https://github.com/Van-XD/Imbf
 
