@@ -100,9 +100,9 @@ def Me():
       print("""
 \x1b[1;97m    ___ __  __ ____  _____
 \x1b[1;97m    |_ _|  \/  | __ )|  ___| |\x1b[1;96m® \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;90mIvanTek
-\x1b[1;97m     | || |\/| |  _ \| |_ |\x1b[1;96m® \x1b[1;97mYoutube \x1b[1;91m: \x1b[1;92mIvanYT
-\x1b[1;97m     | || |  | | |_) |  _| |\x1b[1;96m® \x1b[1;97mGithub  \x1b[1;91m: \x1b[1;97m/Van-XD
-\x1b[1;97m    |___|_|  |_|____/|_| |\x1b[1;96m® \x1b[1;97mVersion \x1b[1;91m: \x1b[1;90m1.0
+\x1b[1;97m     | || |\/| |  _ \| |_    |\x1b[1;96m® \x1b[1;97mYoutube \x1b[1;91m: \x1b[1;92mIvanYT
+\x1b[1;97m     | || |  | | |_) |  _|   |\x1b[1;96m® \x1b[1;97mGithub  \x1b[1;91m: \x1b[1;97m/Van-XD
+\x1b[1;97m    |___|_|  |_|____/|_|     |\x1b[1;96m® \x1b[1;97mVersion \x1b[1;91m: \x1b[1;90m1.0
                        """)
 
 
